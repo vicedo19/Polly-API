@@ -4,4 +4,4 @@ sqlalchemy
 pydantic
 passlib[bcrypt]
 jwt
-python-dotenv 
+python-dotenv
